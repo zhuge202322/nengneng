@@ -76,7 +76,7 @@ export default function Footer() {
               <li className="flex items-start gap-3">
                 <MapPin className="w-4 h-4 text-orange-500 mt-1 flex-shrink-0" />
                 <span className="text-sm leading-relaxed">
-                  香港 灣仔 港灣道26號 華潤大廈 27樓2705室
+                  No. 81, Qiongshan Avenue, Jiangdong New Area, Haikou City, Hainan Province
                 </span>
               </li>
             </ul>

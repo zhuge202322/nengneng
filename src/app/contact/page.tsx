@@ -51,7 +51,7 @@ export default function ContactPage() {
                 </div>
                 <div className="flex flex-col">
                   <span className="text-sm font-bold italic text-slate-800 mb-1">Address:</span>
-                  <span className="text-[15px] text-gray-600 italic">Room 2705, 27/F, China Resources Building, 26 Harbour Road, Wanchai, Hong Kong</span>
+                  <span className="text-[15px] text-gray-600 italic">No. 81, Qiongshan Avenue, Jiangdong New Area, Haikou City, Hainan Province</span>
                 </div>
               </li>
               
