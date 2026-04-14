@@ -53,7 +53,7 @@ export default function HeroCarousel() {
       {/* Center Content Placeholder (Optional) */}
       <div className="absolute inset-0 flex flex-col items-center justify-center z-20 text-white pointer-events-none">
         <h1 className="text-5xl md:text-6xl font-bold mb-4 drop-shadow-lg transform translate-y-4 opacity-0 animate-[fade-in-up_1s_ease-out_forwards]">
-          Fenghe Tai Petrochemical
+          Qing Long Petrochemical
         </h1>
         <p className="text-xl md:text-2xl drop-shadow-md transform translate-y-4 opacity-0 animate-[fade-in-up_1s_ease-out_0.3s_forwards]">
           High-Quality Materials For Global Industries
