@@ -69,8 +69,8 @@ export default function Footer() {
               <li className="flex items-start gap-3">
                 <Mail className="w-4 h-4 text-orange-500 mt-1 flex-shrink-0" />
                 <div className="flex flex-col gap-1">
-                  <a href="mailto:gswiftop@gmail.com" className="text-sm hover:text-white transition-colors">gswiftop@gmail.com</a>
-                  <a href="mailto:fenghetai22@gmail.com" className="text-sm hover:text-white transition-colors">fenghetai22@gmail.com</a>
+                  <a href="mailto:gswiftop@gmail.com" className="text-sm hover:text-white transition-colors">plas@fenghetai.cn</a>
+                  <a href="mailto:fenghetai22@gmail.com" className="text-sm hover:text-white transition-colors">gswiftop@gmail.com</a>
                 </div>
               </li>
               <li className="flex items-start gap-3">
