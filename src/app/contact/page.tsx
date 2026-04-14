@@ -95,9 +95,9 @@ export default function ContactPage() {
                 </div>
                 <div className="flex items-center gap-2 flex-wrap">
                   <span className="text-sm font-bold italic text-slate-800">Email:</span>
-                  <a href="mailto:gswiftop@gmail.com" className="text-[15px] text-gray-600 hover:text-[#e88828] transition-colors italic">gswiftop@gmail.com</a>
+                  <a href="mailto:gswiftop@gmail.com" className="text-[15px] text-gray-600 hover:text-[#e88828] transition-colors italic">plas@fenghetai.cn</a>
                   <span className="text-gray-400">/</span>
-                  <a href="mailto:fenghetai22@gmail.com" className="text-[15px] text-gray-600 hover:text-[#e88828] transition-colors italic">fenghetai22@gmail.com</a>
+                  <a href="mailto:fenghetai22@gmail.com" className="text-[15px] text-gray-600 hover:text-[#e88828] transition-colors italic">gswiftop@gmail.com</a>
                 </div>
               </li>
             </ul>
